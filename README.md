@@ -23,7 +23,7 @@ Subsequent to data preparation, we apply several classification algorithms, each
 
 To assess the efficacy of each model, we employ several performance metrics, including accuracy, precision, recall, and the F1 score. These metrics provide insights into the models' ability to correctly predict heart disease presence, balancing the trade-off between sensitivity and specificity.
 
-## Conclusion and Future Work
+## Conclusion
 
 This project demonstrates the potential of machine learning in predicting heart disease, offering promising directions for future research and application in healthcare. Future work may explore the integration of additional predictors, the application of more sophisticated algorithms, or the development of a composite model that incorporates the strengths of individual classifiers to further enhance prediction accuracy.
 
